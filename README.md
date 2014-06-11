@@ -1,0 +1,4 @@
+SimpleIRC
+=========
+
+An IRC client
